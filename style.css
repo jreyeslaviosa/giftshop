@@ -6,3 +6,9 @@
 .swatches{flex-wrap:wrap}.card svg{height:78px}.card{min-height:137px}.card b{line-height:1.4}
 
 .unit-control{display:flex;align-items:center;gap:7px;margin:0;color:#77856e;font-size:10px}.unit-control select{font:inherit;font-size:11px;background:#fff;border:1px solid #dce2da;border-radius:6px;padding:9px;color:#293c36}@media(max-width:750px){.unit-control{font-size:0}.unit-control select{max-width:100px;padding:8px 4px}.actions{gap:5px}}
+
+#planFields{display:grid;grid-template-columns:1fr 1fr;gap:0 9px}#planFields label{font-size:9px}#planFields input{padding:9px 6px}.plan-note{background:#edf2e8;border-radius:6px;padding:12px;font-size:11px;margin:18px 0}.plan-note p{margin-bottom:0}#restorePlan{margin-top:9px;font-size:10px}#applyRoom{width:100%;margin-top:12px}
+
+.canvasbar{gap:10px}.canvasbar>.segmented{margin-left:auto}.download-view{font-size:10px;white-space:nowrap;background:#2e5040;color:white;border-color:#2e5040}.download-view:hover{background:#3c6550}@media(max-width:1050px){.canvasbar{height:auto;min-height:64px;padding-top:9px;padding-bottom:9px;flex-wrap:wrap}.canvasbar>div:first-child{flex:1 0 100%}}
+
+.surface-colors{padding:10px 0 14px;border-bottom:1px solid #edf0e9}.surface-colors>b{font-size:11px;font-weight:500;display:block;margin-bottom:12px}.surface-colors .swatches{gap:8px}.surface-colors .swatches button{width:25px;height:25px}.color-picker{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:13px 0 0}input[type=color]{display:inline-block;width:44px;height:30px;padding:3px;margin:0;cursor:pointer}
