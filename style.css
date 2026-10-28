@@ -4,3 +4,5 @@
 .brand .museum-logo{display:block;width:96px;height:61px;object-fit:contain;border-radius:3px}.library>.eyebrow{margin-bottom:16px}@media(max-width:750px){.brand .museum-logo{width:80px;height:51px}}
 
 .swatches{flex-wrap:wrap}.card svg{height:78px}.card{min-height:137px}.card b{line-height:1.4}
+
+.unit-control{display:flex;align-items:center;gap:7px;margin:0;color:#77856e;font-size:10px}.unit-control select{font:inherit;font-size:11px;background:#fff;border:1px solid #dce2da;border-radius:6px;padding:9px;color:#293c36}@media(max-width:750px){.unit-control{font-size:0}.unit-control select{max-width:100px;padding:8px 4px}.actions{gap:5px}}
